@@ -1,4 +1,4 @@
-# 🚀 Media Master Suite v5.2
+# 🚀 Media Master Suite v1.0
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
